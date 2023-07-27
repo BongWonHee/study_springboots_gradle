@@ -13,7 +13,7 @@
         (UNIQUE_ID, NAME, EMAIL, JOB, PASSWORD)
         values
         (#{USERNAME}, #{NAME}, #{EMAIL}, #{JOB}, #{password})
-        ;
+        ; 
         </insert>
 
 </mapper>
