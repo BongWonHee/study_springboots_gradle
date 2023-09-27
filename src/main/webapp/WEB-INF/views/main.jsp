@@ -35,7 +35,7 @@
             <p>&copy; 2023 Your Website. All Rights Reserved.</p>
         </div>
     </footer>
-
+    <script src="/js/commonsCode.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
